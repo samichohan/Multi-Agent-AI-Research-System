@@ -1,6 +1,6 @@
 # 🧠 Research Intelligence — Multi-Agent AI Research System
 
-An autonomous multi-agent pipeline that researches any topic end-to-end: it **searches** the web, **reads** the most relevant source in depth, **writes** a structured research report, and **critiques** its own work — all orchestrated with LangChain/LangGraph agents and served through a polished Streamlit UI.
+An autonomous multi-agent pipeline that researches any topic end-to-end: it **searches** the web, **reads** the most relevant source in depth, **writes** a structured research report, and **critiques** its own work — all orchestrated with LangChain/LangGraph agents and served through a polished Streamlit UI..
 
 ---
 
