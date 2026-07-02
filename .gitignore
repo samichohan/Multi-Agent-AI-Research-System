@@ -1,0 +1,24 @@
+# Environments
+venv/
+env/
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# OS / Editor
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
