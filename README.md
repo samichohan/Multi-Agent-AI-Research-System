@@ -4,6 +4,10 @@ An autonomous multi-agent pipeline that researches any topic end-to-end: it **se
 
 ---
 
+Live App:   https://multi-agent-ai-research-system-app.streamlit.app/
+
+
+---
 ## ✨ Features
 
 - 🔍 **Search Agent** — queries the web (via Tavily) for recent, reliable sources on the given topic
