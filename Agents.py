@@ -7,7 +7,7 @@ from rich import print
 import os
 from dotenv import load_dotenv
 load_dotenv()
-
+from langchain_groq import ChatGroq
 # model setup
 llm = ChatGroq(model = "openai/gpt-oss-120b",temperature=0)
 
