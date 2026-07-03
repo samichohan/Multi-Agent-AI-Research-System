@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # model setup
-llm = ChatMistralAI(model = "mistral-medium-3-5")
+llm = ChatGroq(model = "openai/gpt-oss-120b",temperature=0)
 
 # 1st Agent
 def build_search_agent():
